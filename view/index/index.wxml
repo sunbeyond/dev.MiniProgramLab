@@ -1,4 +1,4 @@
 <!--view/index/index.wxml-->
 <view class="btn-area">
-	<navigator url="/view/canvas/canvas?type=chartLine">折线图</navigator>
+	<navigator url="/view/canvas/canvas?type=chartLine"><button>折线图</button></navigator>
 </view>
